@@ -1,4 +1,4 @@
-# MiniGit
+## MiniGit
 
 A lightweight documentation workspace for organizing project documentation in one place.
 
