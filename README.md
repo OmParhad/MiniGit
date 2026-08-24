@@ -105,7 +105,7 @@ npm run dev
 
 ## Example
 
-This is **bold text** And this is *italic text*.
+This is **bold text**, and this is *italic text*.
 
 | Feature           | Status |
 | ----------------- | ------ |
